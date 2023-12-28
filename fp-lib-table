@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Teensy")(type "KiCad")(uri "${KIPRJMOD}/teensy.pretty-master")(options "")(descr ""))
   (lib (name "BatteryCoin")(type "KiCad")(uri "${KIPRJMOD}/BatteryCoin.pretty")(options "")(descr ""))
+  (lib (name "Pico")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
 )

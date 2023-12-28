@@ -307,7 +307,7 @@
     )
     (pin "1" (uuid 8d2860f5-86c8-42b0-b677-1957a7918e65))
     (instances
-      (project "TeensyIrrigation"
+      (project "PicoIrrigation"
         (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/635bc974-34c1-4f31-bfad-3c627a590545"
           (reference "#PWR0112") (unit 1)
         )
@@ -345,7 +345,7 @@
     (pin "7" (uuid 4f52afe6-40c0-4812-9496-d3bf4ee89db5))
     (pin "8" (uuid fd01652e-10b5-4b32-b8f9-c439583f3ceb))
     (instances
-      (project "TeensyIrrigation"
+      (project "PicoIrrigation"
         (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/f459c47d-100b-489c-87ee-123d3bae6c42"
           (reference "U5") (unit 1)
         )
@@ -371,7 +371,7 @@
     (pin "1" (uuid 35ac6269-cbc2-4504-9f55-9f1e23a8fd46))
     (pin "2" (uuid 42daeb91-535c-4611-a54e-3f7e6def7c41))
     (instances
-      (project "TeensyIrrigation"
+      (project "PicoIrrigation"
         (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/635bc974-34c1-4f31-bfad-3c627a590545"
           (reference "C25") (unit 1)
         )
@@ -402,7 +402,7 @@
     )
     (pin "1" (uuid fff37867-4d3f-44cd-9afd-8b38a211f7e2))
     (instances
-      (project "TeensyIrrigation"
+      (project "PicoIrrigation"
         (path "/c65a281d-6732-4d62-97b7-333427e1d7dc"
           (reference "#PWR01") (unit 1)
         )
@@ -430,7 +430,7 @@
     )
     (pin "1" (uuid 005a03a0-c2b3-45c4-9c54-ba5530c79f99))
     (instances
-      (project "TeensyIrrigation"
+      (project "PicoIrrigation"
         (path "/c65a281d-6732-4d62-97b7-333427e1d7dc/635bc974-34c1-4f31-bfad-3c627a590545"
           (reference "#PWR0112") (unit 1)
         )
