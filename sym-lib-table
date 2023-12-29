@@ -3,4 +3,5 @@
   (lib (name "Teensy")(type "Legacy")(uri "${KIPRJMOD}/teensy.lib")(options "")(descr ""))
   (lib (name "NXP")(type "Legacy")(uri "${KIPRJMOD}/NXP.lib")(options "")(descr ""))
   (lib (name "Pico")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "IdealDiode")(type "KiCad")(uri "${KIPRJMOD}/IdealDiode.kicad_sym")(options "")(descr ""))
 )
